@@ -27,6 +27,14 @@ Follow the document to recreate the library and the python file.
 ## Running the tests
 The aim is to create a new local repository in your local machine and then push the items to GitHub
 
+1- Load the libraries
+2- Load the dataset salaries
+3- Check the total number of rows and columns
+4- Check the total elements in the dataset
+5- Check all the columns names
+6- Check column data types
+
+
 
 
 ### Break down into end to end tests
